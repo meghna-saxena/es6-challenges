@@ -1,1 +1,1 @@
-# es6-challenges
+# js-algorithms
